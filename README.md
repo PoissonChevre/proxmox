@@ -1,7 +1,9 @@
-# Proxmox Template
+# Learn Linux TV : [Apprenez Proxmox Virtual Environment](https://www.learnlinux.tv/proxmox-full-course/)
 
-https://technotim.live/posts/cloud-init-cloud-image/
+Proxmox Virtual Environment est une solution de virtualisation exceptionnelle, tout comme Kubernetes l'est pour la conteneurisation. Je partage ici un projet où j'ai configuré un cluster Kubernetes à partir de zéro en utilisant Proxmox comme plateforme. Dans ce cours d'initiation, je partage comment j'ai configuré un cluster Kubernetes à partir de zéro en utilisant Proxmox comme plateforme.
 
-# Ubuntu Cloud Images
+## Ressources
 
-https://cloud-images.ubuntu.com/
+### [Perfect Proxmox Template with Cloud Image and Cloud Init](https://technotim.live/posts/cloud-init-cloud-image/)
+
+### [Ubuntu Cloud Images](https://cloud-images.ubuntu.com/)

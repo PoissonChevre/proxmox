@@ -1,5 +1,6 @@
 # Proxmox Container Template
 # https://www.youtube.com/watch?v=J29onrRqE_I&t=206s
+# https://pve.proxmox.com/wiki/Linux_Container
 
 # update container
 sudo apt update && sudo apt dist-upgrade
