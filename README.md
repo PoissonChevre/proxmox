@@ -4,6 +4,8 @@ Proxmox Virtual Environment est une solution de virtualisation exceptionnelle, t
 
 ## Ressources
 
+### [Proxmox Cheatsheet](https://sweworld.net/cheatsheets/proxmox/)
+
 ### [Perfect Proxmox Template with Cloud Image and Cloud Init](https://technotim.live/posts/cloud-init-cloud-image/)
 
 ### [Ubuntu Cloud Images](https://cloud-images.ubuntu.com/)
