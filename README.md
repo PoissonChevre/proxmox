@@ -32,11 +32,11 @@ This free video course goes from installation to clustering and high availabilit
 
 ## My notes
 
-My commands and templates are in my cheat sheets: [devops_cheat_sheets/proxmox](https://github.com/PoissonChevre/devops_cheat_sheets/tree/main/proxmox)
+My commands and templates are in my cheat sheets: [cheatsheets/proxmox](https://github.com/PoissonChevre/cheatsheets/tree/main/proxmox)
 
 - `qm` (VMs) and `pct` (containers) commands
-- [VM template from a cloud image (cloud-init)](https://github.com/PoissonChevre/devops_cheat_sheets/blob/main/proxmox/templates/vm-cloud-init-template.sh)
-- [LXC container template](https://github.com/PoissonChevre/devops_cheat_sheets/blob/main/proxmox/templates/lxc-template-prep.sh)
+- [VM template from a cloud image (cloud-init)](https://github.com/PoissonChevre/cheatsheets/blob/main/proxmox/templates/vm-cloud-init-template.sh)
+- [LXC container template](https://github.com/PoissonChevre/cheatsheets/blob/main/proxmox/templates/lxc-template-prep.sh)
 
 ## Takeaways
 
