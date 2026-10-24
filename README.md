@@ -30,8 +30,6 @@ This free video course goes from installation to clustering and high availabilit
 | 16 | High Availability |
 | Bonus | Proxmox Backup Server |
 
-After the course, I used Proxmox to build a Kubernetes cluster from scratch, following [this Learn Linux TV guide](https://www.learnlinux.tv/how-to-build-an-awesome-kubernetes-cluster-using-proxmox-virtual-environment/).
-
 ## My notes
 
 My commands and templates are in my cheat sheets: [devops_cheat_sheets/proxmox](https://github.com/PoissonChevre/devops_cheat_sheets/tree/main/proxmox)
@@ -39,6 +37,12 @@ My commands and templates are in my cheat sheets: [devops_cheat_sheets/proxmox](
 - `qm` (VMs) and `pct` (containers) commands
 - [VM template from a cloud image (cloud-init)](https://github.com/PoissonChevre/devops_cheat_sheets/blob/main/proxmox/templates/vm-cloud-init-template.sh)
 - [LXC container template](https://github.com/PoissonChevre/devops_cheat_sheets/blob/main/proxmox/templates/lxc-template-prep.sh)
+
+## Takeaways
+
+- One tool for a small data center: VMs, containers, storage, backups, clustering and high availability.
+- Templates with cloud-init make new VMs fast to create.
+- After the course, I used Proxmox to build a Kubernetes cluster from scratch, following [this Learn Linux TV guide](https://www.learnlinux.tv/how-to-build-an-awesome-kubernetes-cluster-using-proxmox-virtual-environment/).
 
 ## Resources
 
