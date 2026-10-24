@@ -1,6 +1,6 @@
 # Proxmox VE Full Course — Learn Linux TV
 
-[Course page](https://www.learnlinux.tv/proxmox-full-course/) · **Instructor:** Jay LaCroix (Learn Linux TV) · **Status:** completed (2025)
+[Course page](https://www.youtube.com/watch?v=5j0Zb6x_hOk) · **Instructor:** Jay LaCroix (Learn Linux TV) · **Status:** completed (2025)
 
 ## About
 
